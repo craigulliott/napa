@@ -35,7 +35,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rspec', '~> 3.1.0'
   gem.add_development_dependency 'pry', '~> 0.10.0'
   gem.add_development_dependency 'rubocop', '~> 0.25.0'
-  gem.add_development_dependency 'activerecord', '~> 4.1.11'
+  gem.add_development_dependency 'activerecord', '~> 4.2.0'
   gem.add_development_dependency 'sqlite3', '~> 1.3.0'
   gem.add_development_dependency 'acts_as_fu', '~> 0'
   gem.add_development_dependency 'codeclimate-test-reporter'
